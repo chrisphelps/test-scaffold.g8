@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/random/play-scala-compile-di-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/random/play-scala-starter-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-55" />
+    <option name="y" value="-1026" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sample-vo-svc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scaffoldsvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/random/victorops-service-scaffold" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/data-lambda-refine" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/feature-flags" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/identity" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-alert-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-alert-endpoint" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-apppublic" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-benchmark" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-cassandra-schema" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-chat" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-common" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-delivery" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-mysql-schema" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-paging-policies" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-repl" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/platform-reporting" value="PREVIEW" />
+        <entry key="$USER_HOME$/victorops/victorops-service-scaffold" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
